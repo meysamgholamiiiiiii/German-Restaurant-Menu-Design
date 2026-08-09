@@ -12,11 +12,11 @@ The project includes two separate menu designs, developed with a focus on visual
 
 ### Menu 01
 
-![Menu 01](images/menu-01-preview.jpg)
+![Menu 01](images/menu-01-page-01.png)
 
 ### Menu 02
 
-![Menu 02](images/menu-02-preview.jpg)
+![Menu 02](images/menu-02-page-02.png)
 
 ## Design Features
 
