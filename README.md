@@ -1,6 +1,6 @@
 # Restaurant Menu Design — Germany
 
-![Project Preview](source/restaurant-menu-02.pdf)
+![Project Preview](source/restaurant-menu-01.pdf)
 
 ## About the Project
 
